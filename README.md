@@ -1,5 +1,5 @@
 
-# Project Name
+# Method Conference Chatbot Demo
 
 This project is a chatbot application that integrates with the OpenAI API. Follow the instructions below to set up the project using Docker and get started.
 
